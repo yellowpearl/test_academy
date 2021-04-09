@@ -6,6 +6,9 @@ from .serializers import *
 
 
 class ProductViewSet(viewsets.ModelViewSet):
+    """
+    Default model view set for product model
+    """
     queryset = Product.objects.all()
     serializer_class = ProductSerializer
 
