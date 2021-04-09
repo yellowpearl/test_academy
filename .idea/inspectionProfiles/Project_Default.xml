@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pika-stubs==0.1.3" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="autocalls.restapi.models.Status.objects" />
+          <option value="autocalls.restapi.models.Calling.objects" />
+          <option value="autocalls.restapi.models.StatusQueue.objects" />
+          <option value="autocalls.restapi.models.QueueNumberStatus.objects" />
+          <option value="autocalls.restapi.models.DaysTimeForCalling.objects" />
+          <option value="autocalls.restapi.models.NumberBase.objects" />
+          <option value="autocalls.restapi.models.Number.objects" />
+          <option value="autocalls.restapi.models.Field.objects" />
+          <option value="autocalls.restapi.models.Audio.objects" />
+          <option value="autocalls.restapi.models.OptionForCalling.objects" />
+          <option value="autocalls.restapi.models.Tts.objects" />
+          <option value="autocalls.restapi.models.Ivr.objects" />
+          <option value="autocalls.restapi.api_db_models.VDomains.objects" />
+          <option value="autocalls.restapi.models.NumberBase.object" />
+          <option value="autocalls.restapi.api_db_models.VXmlCdr.object" />
+          <option value="autocalls.restapi.api_db_models.VXmlCdr.objects" />
+          <option value="autocalls.restapi.trash_db_models.TrashNumbers.objects" />
+          <option value="autocalls.restapi.models.Statistic.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
